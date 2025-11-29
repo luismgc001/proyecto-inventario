@@ -98,13 +98,3 @@ http://localhost:5173/products
 - Frontend: React, React Router, Axios, Vite
 
 ---
-
-## 7. Repositorio GitHub
-
-Sube ambas carpetas más este README y tu documento Word al repositorio.
-
----
-
-## 8. Notas finales
-
-Este proyecto es una versión mínima funcional cuyo propósito es demostrar conceptos de front-end, back-end y comunicación REST.
